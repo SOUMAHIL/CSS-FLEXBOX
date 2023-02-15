@@ -1,0 +1,97 @@
+body{
+     
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;  
+
+}
+ nav{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    justify-content: center;    
+}
+nav .onglet a{
+    text-decoration: none;
+    border-bottom: 1px;
+    padding-bottom: 5px;
+    margin-right: 10px;
+    color: #6f6f6f;
+
+}
+nav h1{
+    color: #717171;
+    font-family: 'playfair Display', sans-serif;
+    font-size: 30px;
+}
+nav .onglet{
+    margin-top: 15px;
+    margin-left: 500px;
+}
+nav h1 a img{
+    width: 300px;
+}
+.onglet{
+      text-decoration: double;
+}
+section .lead__logo{
+    margin: auto;
+    display: flex;
+}
+section .para{
+    display: flex;
+    justify-content: center;
+    font-family: 'playfair Display', sans-serif;
+    color: #6f6f6f;
+
+}
+ 
+.section-a h1{
+    display: flex;
+    margin: flex; 
+    justify-content: center;
+    color: rgba(12, 139, 97, 0.658);
+}
+.container{
+    width: 100%;
+    height: 200%;
+    justify-content: center;
+    display: flex;    
+    
+}
+.flex-box{
+    width: 300px;
+    height: 300px;
+    background: linear-gradient(rgb(30, 135, 255),rgb(255, 0, 0));
+    color: aliceblue;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 10px;
+    list-style: 200px;
+    margin: 10px;
+    color: ;
+}
+.container-2{
+      width: 300px;
+      height: 300px;
+}
+.flexbox-2{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    
+
+}
+.container-2 {
+    color: #1efd99;
+    justify-content: center;
+    align-items: center;
+    margin-left: 500px;
+    display:flex;   
+
+}
+.flexbox-2.2{
+    
+      margin:5000px;
+    
+}
